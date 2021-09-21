@@ -1,0 +1,172 @@
+﻿  Gamer.cpp
+  Main.cpp
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Main.h(63,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Main.h(66,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Main.h(79,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Main.h(81,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Main.h(106,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Main.h(108,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Main.h(151,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Main.h(154,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Main.h(167,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Main.h(169,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Main.h(194,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Main.h(196,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Main.h(421,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Main.h(427,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Main.h(575,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Main.h(691,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Main.h(746,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Main.h(815,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Main.h(884,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Main.h(953,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Main.h(1027,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Main.h(1081,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Main.h(1138,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Main.h(1192,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Map.cpp
+  Turn.cpp
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(149,69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(149,111): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(155,8): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(159,69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(159,111): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(165,8): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(169,69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(169,111): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(175,8): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(179,69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(179,111): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(185,8): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(194,69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(200,8): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(204,69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(210,8): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(214,69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(220,8): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(224,69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(230,8): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(384,7): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(390,7): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(395,7): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(401,7): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(406,7): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(412,7): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(417,7): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(423,7): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(430,7): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(436,7): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(441,7): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(447,7): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(452,7): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(458,7): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(463,7): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(469,7): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(476,69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(476,111): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(482,8): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(488,7): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(494,7): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(499,64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(499,106): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(505,8): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(511,7): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(517,7): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(522,69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(522,111): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(528,8): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(534,7): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(540,7): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(545,69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(545,111): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(551,8): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(557,7): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(563,7): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(570,69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(576,8): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(582,7): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(588,7): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(593,64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(599,8): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(605,7): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(611,7): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(616,69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(622,8): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(628,7): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(634,7): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(639,64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(645,8): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(651,7): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(657,7): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(674,10): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(676,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(714,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(716,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(755,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(757,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(797,10): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(799,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(838,10): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(840,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(879,10): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(881,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(919,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(921,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(960,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(962,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(1004,10): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(1006,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(1044,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(1046,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(1085,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(1087,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(1127,10): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(1129,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(1168,10): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(1170,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(1209,10): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(1211,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(1249,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(1251,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(1290,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(1292,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\utility(193,48): warning C4267: 'initializing': conversion from 'size_t' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(151): message : see reference to function template instantiation 'std::pair<int,int>::pair<size_t,int&,0>(_Other1 &&,_Other2) noexcept' being compiled
+          with
+          [
+              _Other1=size_t,
+              _Other2=int &
+          ]
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(151): message : see reference to function template instantiation 'std::pair<int,int>::pair<size_t,int&,0>(_Other1 &&,_Other2) noexcept' being compiled
+          with
+          [
+              _Other1=size_t,
+              _Other2=int &
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\utility(193,48): warning C4267: 'initializing': conversion from 'size_t' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(171): message : see reference to function template instantiation 'std::pair<int,int>::pair<int&,size_t,0>(_Other1,_Other2 &&) noexcept' being compiled
+          with
+          [
+              _Other1=int &,
+              _Other2=size_t
+          ]
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Turn.cpp(171): message : see reference to function template instantiation 'std::pair<int,int>::pair<int&,size_t,0>(_Other1,_Other2 &&) noexcept' being compiled
+          with
+          [
+              _Other1=int &,
+              _Other2=size_t
+          ]
+  .NETFramework,Version=v4.8.AssemblyAttributes.cpp
+  Generating Code...
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Main.h(141): warning C4715: 'Test::Main::CheckWhiteWin': not all control paths return a value
+C:\Users\Xiaomi\OneDrive\Desktop\Chess\Test\Main.h(229): warning C4715: 'Test::Main::CheckBlackWin': not all control paths return a value
+  Gamer.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Test.vcxproj -> C:\Users\Xiaomi\OneDrive\Desktop\Chess\x64\Debug\Test.exe
